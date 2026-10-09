@@ -50,7 +50,12 @@ The corrected application was thoroughly tested inside the **BlueStacks 5 emulat
 
 
 
-## 5. Screenshot
+## 5. Screenshots
+<img width="975" height="880" alt="image" src="https://github.com/user-attachments/assets/6bb63065-401c-4e2d-bd97-335ef2e478d6" />
+<img width="975" height="800" alt="image" src="https://github.com/user-attachments/assets/7bca9acb-006f-4e9a-9f1e-68f798c7abcf" />
+<img width="975" height="882" alt="image" src="https://github.com/user-attachments/assets/2e547c4f-73be-4058-86ba-b1dfad2c6d3b" />
+
+
  
 
   
